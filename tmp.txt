@@ -1,4 +1,16 @@
-* commit 9b6d11a19cf48794d67cac5d544458dd3fc13eb4 (HEAD -> refs/heads/master, refs/remotes/origin/master)
+* commit 5069759accd0533087dae48b852c5c02216f50b0 (HEAD -> refs/heads/master, refs/remotes/origin/master)
+| Author: java <java@athene.local>
+| Date:   Thu Jun 29 19:30:20 2017 +0200
+| 
+|     Advanced gitignore file
+| 
+* commit 4028560c4b091e969f8b3e763032515e2e294532
+| Author: java <java@athene.local>
+| Date:   Thu Jun 29 19:24:09 2017 +0200
+| 
+|     Created gitignore file
+| 
+* commit 9b6d11a19cf48794d67cac5d544458dd3fc13eb4
 | Author: java <java@athene.local>
 | Date:   Thu Jun 29 19:11:41 2017 +0200
 | 
